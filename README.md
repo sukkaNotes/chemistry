@@ -6,13 +6,13 @@
 
 > 学而时习之，不亦乐乎？——《论语》
 
-苏卡卡的「普通化学B」笔记
+苏卡卡的「普通化学 B」笔记。
 
 ## Intro
 
-sukkaNotes are proudly using Markdown, [MathJax](https://www.mathjax.org/) and [Docsify](https://github.com/docsifyjs/docsify).
+sukkaNotes are proudly using Markdown, [MathJax](https://www.mathjax.org/) and [Docsify](https://github.com/docsifyjs/docsify), hosted on GitHub Pages and using Cloudflare as CDN.
 
-苏卡卡的笔记本使用 Markdown 编写，使用 [MathJax](https://www.mathjax.org/) 渲染化学式和数学公式，使用 [Docsify](https://github.com/docsifyjs/docsify) 渲染页面。
+苏卡卡的笔记本使用 Markdown 编写，使用 [MathJax](https://www.mathjax.org/) 渲染化学式和数学公式，使用 [Docsify](https://github.com/docsifyjs/docsify) 渲染页面，托管在 GitHub Pages 上，使用 Cloudflare 提供的 CDN 服务。
 
 ## Requirement
 
