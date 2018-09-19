@@ -1,7 +1,7 @@
 # sukkaNotes - Chemistry
 
 [![Author Sukka](https://img.shields.io/badge/Author-Sukka-b68469.svg?style=flat-square)](https://skk.moe)
-![Chemistry](https://img.shields.io/badge/Subject-Chemistry-009688.svg?style=flat-square)
+![Chemistry](https://img.shields.io/badge/Subject-Chemistry-1976D2.svg?style=flat-square)
 [![License](https://img.shields.io/github/license/sukkanotes/chemistry.svg?style=flat-square)](https://github.com/sukkaNotes/chemistry/blob/master/LICENSE)
 
 > 学而时习之，不亦乐乎？——《论语》
@@ -34,6 +34,12 @@ $ cd sukkaNotes-Chemistry
 $ docisfy serve .
 # Docsify CLI will listen at http://localhost:3000
 ```
+
+## License
+
+sukkaNotes is open sourced under [MIT](https://github.com/sukkaNotes/chemistry/blob/master/LICENSE) license.
+
+苏卡卡的笔记本使用 [MIT](https://github.com/sukkaNotes/chemistry/blob/master/LICENSE) 协议开源。
 
 ## Maintainer
 
